@@ -34,7 +34,7 @@
     - TODO
 - [JEP 458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458)
     - TODO
-- [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/430)
+- [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/459)
     - String templates complement Java's existing string literals and text blocks by coupling literal text with embedded
       expressions and template processors to produce specialized results.
     - Except for a technical change in the types of template expressions, there are no changes relative to the first
@@ -48,7 +48,7 @@
           Previously access was limited to heap MemorySegments backed by an array of byte.
 - [JEP 461: Stream Gatherers (Preview)](https://openjdk.org/jeps/461)
     - TODO
-- [JEP 462: Structured Concurrency (Second Preview)](https://openjdk.org/jeps/453)
+- [JEP 462: Structured Concurrency (Second Preview)](https://openjdk.org/jeps/462)
     - Simplify concurrent programming by introducing an API for structured concurrency. Structured concurrency treats
       groups of related tasks running in different threads as a single unit of work, thereby streamlining error handling
       and cancellation, improving reliability, and enhancing observability.
