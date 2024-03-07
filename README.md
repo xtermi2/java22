@@ -31,8 +31,9 @@
 - [JEP 456: Unnamed Variables & Patterns](https://openjdk.org/jeps/456)
     - Support unnamed variables and unnamed patterns. They can be use when variable declarations or nested patterns are required but never used. Both are denoted by the underscore character, _.
     - see example `UnnamedVariablesAndPatterns.java`
-- [JEP 456: 457: Class-File API (Preview)](https://openjdk.org/jeps/457)
-    - TODO
+- [JEP 457: Class-File API (Preview)](https://openjdk.org/jeps/457)
+    - Provide a standard API for parsing, generating, and transforming Java class files.
+    - see example `ClassFileAPI.java`
 - [JEP 458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458)
     - TODO
 - [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/459)
