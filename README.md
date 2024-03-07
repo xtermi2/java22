@@ -35,7 +35,8 @@
     - Provide a standard API for parsing, generating, and transforming Java class files.
     - see example `ClassFileAPI.java`
 - [JEP 458: Launch Multi-File Source-Code Programs](https://openjdk.org/jeps/458)
-    - TODO
+    - Enhance the java application launcher to be able to run a program supplied as multiple files of Java source code.
+    - see example `LaunchMultiFileSourceCodePrograms.java`
 - [JEP 459: String Templates (Second Preview)](https://openjdk.org/jeps/459)
     - String templates complement Java's existing string literals and text blocks by coupling literal text with embedded
       expressions and template processors to produce specialized results.
