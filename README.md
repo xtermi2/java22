@@ -50,7 +50,8 @@
         - Support vector access with heap MemorySegments that are backed by an array of any primitive element type.
           Previously access was limited to heap MemorySegments backed by an array of byte.
 - [JEP 461: Stream Gatherers (Preview)](https://openjdk.org/jeps/461)
-    - TODO
+    - Enhance the Stream API to support custom intermediate operations. This will allow stream pipelines to transform data in ways that are not easily achievable with the existing built-in intermediate operations.
+    - See example `StreamGatherers.java`
 - [JEP 462: Structured Concurrency (Second Preview)](https://openjdk.org/jeps/462)
     - Simplify concurrent programming by introducing an API for structured concurrency. Structured concurrency treats
       groups of related tasks running in different threads as a single unit of work, thereby streamlining error handling
